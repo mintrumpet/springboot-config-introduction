@@ -9,7 +9,7 @@
 ```yaml
 server:
   tomcat:
-    ...
+  	...
 ```
 
 -  accept-count ：当所有处理线程都被使用时，传入连接未处理请求的最大队列长度。 超过数量请求会被拒绝。
@@ -74,7 +74,7 @@ spring:
 ```yaml
 spring:
   datasource:
-	  ...
+  	...
 ```
 
 -  hikari：
